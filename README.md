@@ -3,10 +3,10 @@
 Example project file using microsoft visual basic 2010 by referring visual basic 2010 in 24 hour
 
 Project 1 :
--Build a simple Visual Basic (VB) program
--Learn "Open File Dialog" and browse the file on disk
--Display picture from fille on disk
--To familiarize with Visual Basic languages
+/n -Build a simple Visual Basic (VB) program
+/n -Learn "Open File Dialog" and browse the file on disk
+/n -Display picture from fille on disk
+/n -To familiarize with Visual Basic languages
 
 Project 2 :
 wait for release
