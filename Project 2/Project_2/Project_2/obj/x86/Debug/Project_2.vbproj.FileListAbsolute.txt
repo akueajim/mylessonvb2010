@@ -1,0 +1,9 @@
+C:\Users\Asus-Akueajim\Documents\Visual Studio 2010\Projects\24Hour Learn Vb\Project 2\Project_2\Project_2\bin\Debug\Project_2.exe
+C:\Users\Asus-Akueajim\Documents\Visual Studio 2010\Projects\24Hour Learn Vb\Project 2\Project_2\Project_2\bin\Debug\Project_2.pdb
+C:\Users\Asus-Akueajim\Documents\Visual Studio 2010\Projects\24Hour Learn Vb\Project 2\Project_2\Project_2\bin\Debug\Project_2.xml
+C:\Users\Asus-Akueajim\Documents\Visual Studio 2010\Projects\24Hour Learn Vb\Project 2\Project_2\Project_2\obj\x86\Debug\Project_2.Form1.resources
+C:\Users\Asus-Akueajim\Documents\Visual Studio 2010\Projects\24Hour Learn Vb\Project 2\Project_2\Project_2\obj\x86\Debug\Project_2.Resources.resources
+C:\Users\Asus-Akueajim\Documents\Visual Studio 2010\Projects\24Hour Learn Vb\Project 2\Project_2\Project_2\obj\x86\Debug\Project_2.vbproj.GenerateResource.Cache
+C:\Users\Asus-Akueajim\Documents\Visual Studio 2010\Projects\24Hour Learn Vb\Project 2\Project_2\Project_2\obj\x86\Debug\Project_2.exe
+C:\Users\Asus-Akueajim\Documents\Visual Studio 2010\Projects\24Hour Learn Vb\Project 2\Project_2\Project_2\obj\x86\Debug\Project_2.xml
+C:\Users\Asus-Akueajim\Documents\Visual Studio 2010\Projects\24Hour Learn Vb\Project 2\Project_2\Project_2\obj\x86\Debug\Project_2.pdb
